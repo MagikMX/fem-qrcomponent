@@ -19,8 +19,8 @@ A simple and minimalist challenge, with important elements for optimal viewing a
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]((https://www.frontendmentor.io/solutions/qrcomponent-responsive-design-wflexbox-uoh0YcjiaB))
+- Live Site URL: [Add live site URL here]((https://magikmx.github.io/fem-qrcomponent/))
 
 ### Built with
 
